@@ -2,7 +2,7 @@ Certainly! Here's a template for your README file:
 
 ```markdown
 # SunShine Weather App
-# Deploye Link-https:<//sun-shine-weather-app.netlify.app/
+# Deploye Link-https://sun-shine-weather-app.netlify.app
 A simple weather app built with HTML, CSS, and React, powered by an API for weather data.
 
 ## Features![sun-shine-weather-app](https://github.com/ramanbajpai7/Weather-App/assets/84241394/639f6b91-2c39-4d1f-a6ac-f99db0ff9ff8)
@@ -22,7 +22,7 @@ A simple weather app built with HTML, CSS, and React, powered by an API for weat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sunshineweatherapp.git
+   git clone https://github.com/ramanbajpai7/sunshineweatherapp.git
    ```
 
 2. Change to the project directory:
