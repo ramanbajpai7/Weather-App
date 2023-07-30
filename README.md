@@ -2,11 +2,14 @@ Certainly! Here's a template for your README file:
 
 ```markdown
 # SunShine Weather App
-
+# Deploye Link-https://sun-shine-weather-app.netlify.app/
 A simple weather app built with HTML, CSS, and React, powered by an API for weather data.
 
 ## Features
-![Screenshot (286)](https://github.com/ramanbajpai7/Weather-App/assets/84241394/b1cff409-89a6-4b21-a484-261c51a9dce6)
+![Screenshot (372)](https://github.com/ramanbajpai7/Weather-App/assets/84241394/cd681fa0-009c-4fbf-96d9-f1a126d9e8b4)
+
+
+
 
 
 - Display the current weather conditions and temperature.
